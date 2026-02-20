@@ -11,19 +11,19 @@ const metrics = [
 const testimonials = [
   {
     quote:
-      "Zammad transformed our content strategy from scratch. Within 6 months, organic leads increased by 420%. She's a rare blend of creative and strategic.",
+      "Zammad transformed our content strategy from scratch. Within 6 months, organic leads increased by 420%. He's a rare blend of creative and strategic.",
     name: "Sarah Chen",
     role: "VP of Marketing, Nexus SaaS",
   },
   {
     quote:
-      "Working with Zammad was a turning point. Her copy didn't just read well - it converted. Our landing page conversion rate doubled in 8 weeks.",
+      "Working with Zammad was a turning point. His copy didn't just read well - it converted. Our landing page conversion rate doubled in 8 weeks.",
     name: "Marcus Webb",
     role: "Founder, Oakhaven Commerce",
   },
   {
     quote:
-      "She doesn't just write content. She builds systems. Our lead gen pipeline is now our most reliable growth channel, and it all started with Zammad.",
+      "He doesn't just write content. He builds systems. Our lead gen pipeline is now our most reliable growth channel, and it all started with Zammad.",
     name: "Priya Nair",
     role: "CMO, Elevate Finance",
   },

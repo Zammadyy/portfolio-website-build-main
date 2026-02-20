@@ -59,7 +59,7 @@ export function AboutContent() {
       <PageHeader
         label="About Me"
         title="The Person Behind the Strategy"
-        description="I'm Zammad Khan - a content strategist and lead generation specialist with 8+ years of experience helping brands turn words into revenue."
+        description="I'm Zammad Khan - a content strategist and lead generation specialist with 3+ years of experience helping brands turn words into revenue."
       />
 
       {/* Story */}
